@@ -1,2 +1,4 @@
 <?php
-echo "hello php";
+echo "hello php","<br>";
+print "hello";
+?>
