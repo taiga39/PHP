@@ -1,4 +1,4 @@
 <?php
 echo "hello php","<br>";
-print "hello";
+print "hello chocolate";
 ?>
